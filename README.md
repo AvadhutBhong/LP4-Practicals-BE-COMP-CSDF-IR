@@ -31,7 +31,7 @@ Each assignment includes:
 |-----------|------------------|---------|
 | 1 | Write a program to **Compute Similarity between Two Text Documents**. | [IR/Assignment1](IR/Assignment1) |
 | 2 | Implement the **PageRank Algorithm**. | [IR/Assignment2](IR/Assignment2) |
-| 3 | Write a **MapReduce Program** to count occurrences of each alphabetic character (case-insensitive, ignoring non-alphabetic). | [IR/Assignment3_](IR/Assignment3) |
+| 3 | Write a **MapReduce Program** to count occurrences of each alphabetic character (case-insensitive, ignoring non-alphabetic). | [IR/Assignment3](IR/Assignment3) |
 | 4 | Write a program to **Implement a Simple Web Crawler**. | [IR/Assignment4](IR/Assignment4) |
 | 5 | Write a program to **Parse XML text, generate Web Graph, and compute Topic-Specific PageRank**. | [IR/Assignment5](IR/Assignment5) |
 
