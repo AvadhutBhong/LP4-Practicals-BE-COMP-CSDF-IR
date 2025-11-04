@@ -1,0 +1,36 @@
+Web Crawler Results
+==================
+Start URL: https://docs.python.org/3/
+Pages Crawled: 30
+
+Visited Pages:
+- https://docs.python.org/2.6/
+- https://docs.python.org/2.7/
+- https://docs.python.org/3.0/
+- https://docs.python.org/3.10/
+- https://docs.python.org/3.11/
+- https://docs.python.org/3.12/
+- https://docs.python.org/3.13/
+- https://docs.python.org/3.14/
+- https://docs.python.org/3.6/
+- https://docs.python.org/3.7/
+- https://docs.python.org/3.8/
+- https://docs.python.org/3.9/
+- https://docs.python.org/3/
+- https://docs.python.org/3/about.html
+- https://docs.python.org/3/bugs.html
+- https://docs.python.org/3/c-api/index.html
+- https://docs.python.org/3/contents.html
+- https://docs.python.org/3/copyright.html
+- https://docs.python.org/3/download.html
+- https://docs.python.org/3/extending/index.html
+- https://docs.python.org/3/faq/index.html
+- https://docs.python.org/3/genindex.html
+- https://docs.python.org/3/installing/index.html
+- https://docs.python.org/3/library/index.html
+- https://docs.python.org/3/py-modindex.html
+- https://docs.python.org/3/search.html
+- https://docs.python.org/3/using/index.html
+- https://docs.python.org/3/whatsnew/index.html
+- https://docs.python.org/bugs.html
+- https://docs.python.org/license.html

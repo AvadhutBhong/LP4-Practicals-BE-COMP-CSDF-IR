@@ -1,0 +1,20 @@
+{
+  "fields": {
+    "From": "Internshala Trainings <trainings@mail.internshala.com>",
+    "To": "avdb@gmail.com",
+    "Subject": "Your delivery checkpoint has been logged",
+    "Date": "Wed, 08 Oct 2025 13:10:08 +0000 (UTC)",
+    "Return-Path": "<bounces+48138813-a263-avadhutgbhong=gmail.com@pnw.mail.internshala.com>",
+    "Message-ID": "<Pxg097T-Q5SWeVqCetnFzQ@geopod-ismtpd-10>"
+  },
+  "score": 2,
+  "reasons": [
+    "Domain mismatch: From(mail.internshala.com) != Return-Path(pnw.mail.internshala.com)",
+    "External link detected in body"
+  ],
+  "ips": [
+    "159.183.105.42"
+  ],
+  "hops": 1,
+  "verdict": "Likely legitimate"
+}

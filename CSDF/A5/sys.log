@@ -1,0 +1,20 @@
+Oct 14 08:30:15 server sshd[1021]: Server listening on 0.0.0.0 port 22.
+Oct 14 09:15:22 server sshd[1101]: Failed password for invaliduser from 192.168.1.101 port 44321 ssh2
+Oct 14 09:15:30 server sshd[1102]: Failed password for invaliduser from 192.168.1.101 port 44322 ssh2
+Oct 14 09:15:35 server sshd[1103]: Failed password for invaliduser from 192.168.1.101 port 44323 ssh2
+Oct 14 09:16:01 server sshd[1105]: Accepted password for testuser from 192.168.1.50 port 51234 ssh2
+Oct 14 09:20:01 server sshd[1201]: Failed password for root from 203.0.113.55 port 12345 ssh2
+Oct 14 09:20:02 server sshd[1202]: Failed password for root from 203.0.113.55 port 12347 ssh2
+Oct 14 09:20:03 server sshd[1203]: Failed password for root from 203.0.113.55 port 12349 ssh2
+Oct 14 09:25:00 server sudo[1301]: testuser : TTY=pts/0 ; PWD=/home/testuser ; USER=root ; COMMAND=/usr/bin/cat /etc/shadow
+Oct 14 09:25:01 server sudo[1301]: pam_unix(sudo:auth): authentication failure; logname=testuser uid=1000 euid=0 tty=/dev/pts/0 ruser=testuser rhost= user=testuser
+Oct 14 09:30:00 server sshd[1401]: Did not receive identification string from 10.0.0.100
+Oct 14 09:30:01 server sshd[1402]: Did not receive identification string from 10.0.0.100
+Oct 14 09:30:15 server sshd[1403]: Invalid user admin from 10.0.0.5 port 54321
+Oct 14 09:30:16 server sshd[1404]: Failed password for invalid user admin from 10.0.0.5 port 54322 ssh2
+Oct 14 09:30:17 server sshd[1405]: Failed password for invalid user admin from 10.0.0.5 port 54323 ssh2
+Oct 14 09:35:00 server sshd[1501]: Accepted password for admin from 10.0.0.10 port 60001 ssh2
+Oct 14 09:35:10 server sudo[1502]: session opened for user root by admin(uid=0)
+Oct 14 09:40:00 server kernel: iptables: DROP input IN=eth0 OUT= MAC=00:00:00:00:00:00 SRC=192.168.1.100 DST=192.168.1.1
+Oct 14 09:40:05 server sshd[1601]: Connection closed by 192.168.1.50 port 51234
+Oct 14 09:45:00 server sshd[1701]: message repeated 50 times: Failed password for root from 203.0.113.60

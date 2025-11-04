@@ -1,0 +1,3 @@
+Machine learning is a subset of artificial intelligence that focuses on developing systems that can learn from and make decisions based on data. It enables computers to improve their performance on a specific task through experience, without being explicitly programmed. The field combines elements of computer science and statistics to create algorithms that can recognize patterns and make predictions.
+
+Deep learning, a specialized form of machine learning, uses artificial neural networks inspired by the human brain. These networks can automatically learn representations from data such as images, text, or sound. Popular applications include image recognition, natural language processing, and autonomous vehicles.

@@ -1,0 +1,9 @@
+Oct 14 10:01:15 hostapd: wlan0: STA ac:87:a3:11:22:33 IEEE 802.11: authenticated
+Oct 14 10:15:30 hostapd: wlan0: STA bc:99:c4:44:55:66 IEEE 802.11: deauthenticated due to inactivity.
+Oct 14 10:25:15 hostapd: wlan0: STA 54:45:65:76:87:98 had failed authentication.
+Oct 14 10:30:00 hostapd: wlan0: STA 00:11:22:33:44:55 had failed authentication.
+Oct 14 10:31:00 hostapd: wlan0: STA 00:11:22:33:44:55 had failed authentication.
+Oct 14 10:32:00 hostapd: wlan0: STA 00:11:22:33:44:55 had failed authentication.
+Oct 14 10:33:00 hostapd: wlan0: STA 00:11:22:33:44:55 had failed authentication.
+Oct 14 10:34:00 hostapd: wlan0: STA 00:11:22:33:44:55 had failed authentication.
+Oct 14 10:35:00 hostapd: wlan0: STA 00:11:22:33:44:55 had failed authentication.
